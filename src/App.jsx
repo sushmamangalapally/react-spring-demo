@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div style={{ padding: "2rem" }}>
-      <h1>Message Board</h1>
+      <h1>Message Board!!!</h1>
       <input
         value={input}
         onChange={(e) => setInput(e.target.value)}
